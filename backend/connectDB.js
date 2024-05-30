@@ -1,10 +1,15 @@
 const { Sequelize } = require("sequelize");
 
-const sequelize = new Sequelize("rishijob_jobportal", "rishijob_rishijob123", ";R1$+JxpHxRu", {
-  host: "localhost",
-  dialect: "mysql",
-  logging: false,
-});
+const sequelize = new Sequelize(
+  "u490757224_rishijob",
+  "u490757224_rishijobuser",
+  "yO$4Kc5TFF",
+  {
+    host: "nicknameinfotech.com",
+    dialect: "mysql",
+    logging: false,
+  }
+);
 
 const connect = async () => {
   try {
