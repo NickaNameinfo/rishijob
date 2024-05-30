@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rishijob_rishijob123",
+    "password": ";R1$+JxpHxRu",
+    "database": "rishijob_jobportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "rishijob_rishijob123",
+    "password": ";R1$+JxpHxRu",
+    "database": "rishijob_jobportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "rishijob_rishijob123",
+    "password": ";R1$+JxpHxRu",
+    "database": "rishijob_jobportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
