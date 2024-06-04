@@ -1,3 +1,3 @@
 export const infoData = {
-  baseApi: "https://rishijob.com:5000/api/v1",
+  baseApi: "https://rishijob.com/backend/api/v1",
 };
